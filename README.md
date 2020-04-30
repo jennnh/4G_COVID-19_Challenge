@@ -40,7 +40,7 @@ Last but not the least, stop playing games all day. It’s not as positive as yo
 
 **Note**
 
-The mallet-2.0.8 need to be in the same folder with the code so that the code can run.
+Please put mallet-2.0.8 in the same folder with the code so that the code runs sucessfully.
 
 **Next Steps**
 - Adding emoji analysis to the text analysis
