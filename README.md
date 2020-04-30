@@ -1,6 +1,6 @@
 # 4G-COVID-19-challenge
 
-***This project won the 2nd prize and the most valuable dataset prize in the UCD MSBA COVID-19 Challenge ***
+***This project won the 2nd prize and the most valuable dataset prize in the UCD MSBA COVID-19 Challenge***
 
 **Objectives**
 
@@ -27,6 +27,7 @@ Topic Modeling
 - Finding the beneficial activities by combining sentiment analysis and single word analysis
 
 **Recommendations**
+
 Based on the topic analysis and single word analysis, we give the following suggestions to people who feel mental discomfort: 
 
 First of all, these popular activities are proved to be very positive: listening to and singing songs, watch movies or TV series, virtually connecting with your family and fiends, reading and workout.
@@ -38,6 +39,7 @@ Third, ordering food online rather than cooking by yourself has a more positive 
 Last but not the least, stop playing games all day. It’s not as positive as you thought.
 
 **Note**
+
 The mallet-2.0.8 need to be in the same folder with the code so that the code can run.
 
 **Next Steps**
